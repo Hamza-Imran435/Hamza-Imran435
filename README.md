@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="justify">Enthusiastic and driven student of Computer Science has good expertise and a solid background in Laravel PHP Framework and related technologies and my experience with developing REST APIs development, user management, and multilingual features for web applications is impressive. My proficiency in JS, JQuery, and AJAX will be helpful in developing dynamic and interactive web applications.</p><br>
 
-<a href="https://app.daily.dev/hamzaimran"><img align="right" src="https://api.daily.dev/devcards/v2/QIG863ApZpkpFQturyzbj.png?r=4m1&type=default" width="356" alt="Hamza Imran's Dev Card"/></a>
+<a href="https://app.daily.dev/hamzaimran"><img align="right" src="https://api.daily.dev/devcards/v2/QIG863ApZpkpFQturyzbj.png?type=default&r=vkk" width="356" alt="Hamza Imran's Dev Card"/></a>
 
 
 - 💻 Currently working on Laravel web apps and API projects.
