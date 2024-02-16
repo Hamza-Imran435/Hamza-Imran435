@@ -58,9 +58,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=noumansarwarr&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 <br><br>
 
-## ⚡Activity Graph:
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=noumansarwarr&theme=dracula&hide_border=true" /></a>
-<br><br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
