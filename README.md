@@ -55,14 +55,11 @@ Here are some ideas to get you started:
 <br><br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=noumansarwarr&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hamza-Imran435&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 <br><br>
-
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=noumansarwarr&icon=9&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
