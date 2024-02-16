@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=f27466&center=true&width=800&lines=Medior+Laravel+Developer+from+Pakistan.;Passionate+and+down-to-earth+proof+that+we+can+change+the+world+with+fast-proven+technology%E2%AD%90." alt="Quote" />
 </h3> 
 
+<a href="https://app.daily.dev/hamzaimran"><img src="https://api.daily.dev/devcards/v2/QIG863ApZpkpFQturyzbj.png?r=4m1&type=default" width="356" alt="Hamza Imran's Dev Card"/></a>
+
 
 <p align="justify">Enthusiastic and driven student of Computer Science has good expertise and a solid background in Laravel PHP Framework and related technologies and my experience with developing REST APIs with React Native mobile app development, user management, and multilingual features for web applications is impressive. My proficiency in JS, JQuery, and AJAX will be helpful in developing dynamic and interactive web applications.</p><br>
 
